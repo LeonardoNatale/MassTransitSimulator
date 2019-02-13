@@ -1,5 +1,9 @@
 # Mass Transit Simulator
-[Team Blue & Gold](https://groupme.com/join_group/45335327/lG7WWI)
+This project was realized during the Fall 2018 term for the CS-3300 course at the Georgia Institute of Technology. 
+
+My team and I created a Mass Transit Simulation app to be used by employees of MARTA (Metropolitan Atlanta Rapid Transit Authority) to allow them to create discrete-event simulations of buses, routes, and stops based on a premade dataset. We worked in teams of about 12 each, separated into "mini-teams" of 3 that worked on the Core Logic, Database, Data Analysis, and User Interface of the app. 
+
+I was part of the Data Analysis team.
 
 ## Setup
 ```
@@ -22,17 +26,3 @@
 5) Run the jar with: java -jar path/to/jar
 ```
 
-## Contributing
-Take a look at the existing [issues](https://github.gatech.edu/tflynn34/MassTransitSimulator/issues),
-which are categorized by group
-([ui](https://github.gatech.edu/tflynn34/MassTransitSimulator/issues?q=is%3Aissue+is%3Aopen+label%3Aui)/
-[logic](https://github.gatech.edu/tflynn34/MassTransitSimulator/issues?q=is%3Aissue+is%3Aopen+label%3Alogic)/
-[storage](https://github.gatech.edu/tflynn34/MassTransitSimulator/issues?q=is%3Aissue+is%3Aopen+label%3Astorage)/
-[analysis](https://github.gatech.edu/tflynn34/MassTransitSimulator/issues?q=is%3Aissue+is%3Aopen+label%3Aanalysis)) or as
-[overhead](https://github.gatech.edu/tflynn34/MassTransitSimulator/issues?q=is%3Aissue+is%3Aopen+label%3Aoverhead).
-
-Please familiarize yourself with git best practices, if you have not already:
-- [feature branch](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
-- [commit](https://chris.beams.io/posts/git-commit/)
-- [squash related commits](https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit)
-- [rebase before pr](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request)
