@@ -1,7 +1,7 @@
 # Mass Transit Simulator
 This project was realized during the Fall 2018 term for the CS-3300 course at the Georgia Institute of Technology. 
 
-My team and I created a Mass Transit Simulation app to be used by employees of MARTA (Metropolitan Atlanta Rapid Transit Authority) to allow them to create discrete-event simulations of buses, routes, and stops based on a premade dataset. We worked in teams of about 12 each, separated into "mini-teams" of 3 that worked on the Core Logic, Database, Data Analysis, and User Interface of the app. 
+My team and I created a Mass Transit Simulation app to be used by employees of MARTA (Metropolitan Atlanta Rapid Transit Authority) to allow them to create discrete-event simulations of buses, routes, and stops based on a premade dataset. We worked in teams of about 12 each, separated into "mini-teams" of 3 that worked on the Core Logic, Database, Data Analysis, and User Interface of the app. The app was coded in Java, specifically JavaFX, and it used Graphviz for visualizations of data.
 
 I was part of the Data Analysis team.
 
