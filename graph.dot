@@ -1,0 +1,24 @@
+digraph G {
+  subgraph cluster1 {
+    stop0 [ label="stop#1 | 0 waiting", color="#00FF00"];
+    stop1 [ label="stop#2 | 0 waiting", color="#00FF00"];
+    stop2 [ label="stop#7 | 0 waiting", color="#00FF00"];
+    stop3 [ label="stop#4 | 0 waiting", color="#00FF00"];
+    stop4 [ label="stop#5 | 0 waiting", color="#00FF00"];
+    stop5 [ label="stop#6 | 0 waiting", color="#00FF00"];
+    stop6 [ label="stop#7 | 0 waiting", color="#00FF00"];
+    stop0 [ label="stop#1 | 0 waiting", color="#00FF00"];
+    stop1 [ label="stop#2 | 0 waiting", color="#00FF00"];
+    stop2 [ label="stop#7 | 0 waiting", color="#00FF00"];
+    stop3 [ label="stop#4 | 0 waiting", color="#00FF00"];
+    stop4 [ label="stop#5 | 0 waiting", color="#00FF00"];
+    stop5 [ label="stop#6 | 0 waiting", color="#00FF00"];
+    stop6 [ label="stop#7 | 0 waiting", color="#00FF00"];
+    stop0 -> stop1;
+    stop1 -> stop2;
+    stop2 -> stop3;
+    stop3 -> stop4;
+    stop4 -> stop5;
+    stop5 -> stop6;
+    label = "Route #1";
+  }
